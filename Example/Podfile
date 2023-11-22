@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MaterialTextFieldIOS_Tests' do
+  pod 'MaterialTextFieldIOS', :path => '../'
+  
+  
+end
